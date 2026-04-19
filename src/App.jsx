@@ -81,7 +81,7 @@ Você sabia que *a maioria dos seus comportamentos de hoje foram decididos na su
 
 A psicanálise mostra que carregamos padrões inconscientes que moldam nossas escolhas — nos relacionamentos, no trabalho, na forma como reagimos ao mundo.
 
-Na *Aula 1 — O Despertar*, Rodrygo Murari e Jocimarah Anjos vão abrir seus olhos pra isso.
+Na *Aula 1 — O Despertar*, Rodrygo Murari e Keila Reis vão abrir seus olhos pra isso.
 
 👉 ${AULA1}
 
@@ -211,7 +211,7 @@ Reage com um 🧿 se isso fez sentido pra você.`
 
 🎙️ *Áudio do Prof. Rodrygo Murari:*
 
-_"Excelente, pessoal da Turma ${T}! Aqui é o Rodrygo Murari. Eu quero te fazer uma pergunta: quantas vezes você já disse 'eu não sei por que fiz isso'? Essa pergunta… é o começo de tudo. É a porta de entrada pra psicanálise. Na terça-feira, dia 28, na Aula 1 — O Despertar, eu e a Jocimarah vamos te mostrar o que está por trás dessas respostas. Te espero lá, ao vivo, às 20h. Ativa o lembrete!"_
+_"Excelente, pessoal da Turma ${T}! Aqui é o Rodrygo Murari. Eu quero te fazer uma pergunta: quantas vezes você já disse 'eu não sei por que fiz isso'? Essa pergunta… é o começo de tudo. É a porta de entrada pra psicanálise. Na terça-feira, dia 28, na Aula 1 — O Despertar, eu e a Keila vamos te mostrar o que está por trás dessas respostas. Te espero lá, ao vivo, às 20h. Ativa o lembrete!"_
 
 👉 ${AULA1}
 
@@ -302,7 +302,7 @@ Final de semana chegando. Mas antes de descansar, uma reflexão:
 
 *Quantas vezes você já disse "eu não sei por que fiz isso"?*
 
-Essa pergunta é a porta de entrada da psicanálise. E na terça, Rodrygo Murari e Jocimarah Anjos vão te mostrar o que está por trás dela.
+Essa pergunta é a porta de entrada da psicanálise. E na terça, Rodrygo Murari e Keila Reis vão te mostrar o que está por trás dela.
 
 👉 ${AULA1}
 
@@ -428,14 +428,14 @@ Reage com um 🤔 se essa pergunta te pegou.`
         type: "audio",
         text: `Excelente tarde! ☀️
 
-🎙️ *Áudio da Profa. Jocimarah Anjos:*
+🎙️ *Áudio da Profa. Keila Reis:*
 
-_"Excelente, Turma ${T}! Aqui é a Jocimarah Anjos. Eu quero te dizer uma coisa: a psicanálise não é sobre ser doente ou ser normal. É sobre ser honesto consigo mesmo. E eu sei que isso dá medo. Mas é exatamente esse medo que mostra que você tá no caminho certo. Na terça começa a nossa jornada — O Despertar. Eu e o Rodrygo preparamos algo especial pra você. Ativa o lembrete e nos encontramos ao vivo, às 20h!"_
+_"Excelente, Turma ${T}! Aqui é a Keila Reis. Eu quero te dizer uma coisa: a psicanálise não é sobre ser doente ou ser normal. É sobre ser honesto consigo mesmo. E eu sei que isso dá medo. Mas é exatamente esse medo que mostra que você tá no caminho certo. Na terça começa a nossa jornada — O Despertar. Eu e o Rodrygo preparamos algo especial pra você. Ativa o lembrete e nos encontramos ao vivo, às 20h!"_
 
 👉 ${AULA1}
 
 Reage com um ❤️ depois de ouvir!`,
-        note: "Roteiro sugerido — gravar áudio real da Jocimarah"
+        note: "Roteiro sugerido — gravar áudio real da Keila"
       },
       {
         time: "Noite (~20h)",
@@ -529,7 +529,7 @@ Reage com um 🚀 — amanhã a gente se encontra!`
 
 Hoje à noite, às 20h, começa a Aula 1 — *O Despertar*.
 
-Rodrygo Murari e Jocimarah Anjos vão ao vivo te mostrar o que a maioria das pessoas passa a vida inteira sem perceber.
+Rodrygo Murari e Keila Reis vão ao vivo te mostrar o que a maioria das pessoas passa a vida inteira sem perceber.
 
 Separa o caderno. Avisa a família. Hoje você tem um compromisso com você mesmo.
 
@@ -586,7 +586,7 @@ Reage com um 📝!`
         type: "contagem",
         text: `⏰ *Falta 1 HORA pra começar!*
 
-Daqui a 60 minutos, Rodrygo e Jocimarah vão ao vivo.
+Daqui a 60 minutos, Rodrygo e Keila vão ao vivo.
 
 Essa noite pode ser o ponto de virada que você tava esperando.
 
@@ -618,7 +618,7 @@ Se você ainda não entrou, esse é o momento. Vem 👇
       {
         time: "20h20 — Provocação 2",
         type: "provocacao",
-        text: `🔓 Rodrygo e Jocimarah estão ao vivo AGORA revelando o que poucos têm coragem de falar.
+        text: `🔓 Rodrygo e Keila estão ao vivo AGORA revelando o que poucos têm coragem de falar.
 
 Não deixa pra depois — entra agora 👇
 👉 ${AULA1}`
@@ -688,7 +688,7 @@ Hoje às 20h — Aula 2, *A Cura* 👇
         type: "contagem",
         text: `⏰ *Faltam 3 HORAS pra Aula 2 — A Cura!*
 
-Hoje Rodrygo e Jocimarah vão mais fundo. Se ontem te mexeu, hoje vai transformar.
+Hoje Rodrygo e Keila vão mais fundo. Se ontem te mexeu, hoje vai transformar.
 
 👉 ${AULA2}
 
@@ -819,7 +819,7 @@ Reage com um ⏰!`
         type: "contagem",
         text: `⏰ *Faltam 2 HORAS!*
 
-Rodrygo e Jocimarah guardaram o melhor pro final. Essa aula vai te surpreender.
+Rodrygo e Keila guardaram o melhor pro final. Essa aula vai te surpreender.
 
 👉 ${AULA3}
 
@@ -868,7 +868,7 @@ Tá acontecendo AGORA. Vem 👇
       {
         time: "20h30 — Provocação 3",
         type: "provocacao",
-        text: `🌟 Rodrygo e Jocimarah guardaram algo especial pro final. E tá sendo entregue AGORA ao vivo.
+        text: `🌟 Rodrygo e Keila guardaram algo especial pro final. E tá sendo entregue AGORA ao vivo.
 
 Entra antes que termine 👇
 👉 ${AULA3}`
@@ -1007,14 +1007,14 @@ export default function App() {
         </div>
       </div>
       <div style={{ background: "#f0fdf4", border: "1px solid #bbf7d0", borderRadius: 10, padding: "12px 16px", marginBottom: 16, fontSize: 12.5, color: "#166534", lineHeight: 1.6 }}>
-        <strong>📌 Resumo:</strong> Aulas 28 (ter), 29 (qua) e 30/04 (qui) às 20h · Professores: Rodrygo Murari e Jocimarah Anjos · Mantra: "Excelente" · Grupo fechado (só seleciona enquete + reação)
+        <strong>📌 Resumo:</strong> Aulas 28 (ter), 29 (qua) e 30/04 (qui) às 20h · Professores: Rodrygo Murari e Keila Reis · Mantra: "Excelente" · Grupo fechado (só seleciona enquete + reação)
       </div>
       <div style={{ display: "flex", gap: 8, marginBottom: 16 }}>
         <button onClick={expandAll} style={{ flex: 1, padding: "8px 0", background: "#0369a1", color: "#fff", border: "none", borderRadius: 8, fontSize: 12, fontWeight: 600, cursor: "pointer" }}>Abrir todos</button>
         <button onClick={collapseAll} style={{ flex: 1, padding: "8px 0", background: "#e2e8f0", color: "#475569", border: "none", borderRadius: 8, fontSize: 12, fontWeight: 600, cursor: "pointer" }}>Fechar todos</button>
       </div>
       {DAYS.map((day, i) => <DaySection key={i} day={day} isOpen={!!openDays[i]} onToggle={() => toggleDay(i)} />)}
-      <div style={{ textAlign: "center", padding: "20px 0 8px", fontSize: 11, color: "#94a3b8" }}>Turma {T} — Semana do Despertar · Rodrygo Murari & Jocimarah Anjos</div>
+      <div style={{ textAlign: "center", padding: "20px 0 8px", fontSize: 11, color: "#94a3b8" }}>Turma {T} — Semana do Despertar · Rodrygo Murari & Keila Reis</div>
     </div>
   );
 }
